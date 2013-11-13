@@ -70,7 +70,7 @@ DATABASES = {
         'default':{
             'ENGINE' : 'django.db.backends.mysql',
             'OPTIONS' : {
-                'read_default_file' : '/home/jinyunyang/django/db.conf',
+                'read_default_file' : '/home/jinyunyang/django/mysite/db.conf',
                 },
         }
 }
